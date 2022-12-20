@@ -19,6 +19,12 @@ nothing to commit, working tree clean
 ```
 
 ```bash
+$ git add .
+
+$ git commit -m "Comment"
+```
+
+```bash
 $ git push origin develop
 ```
 
